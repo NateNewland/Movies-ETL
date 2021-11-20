@@ -25,5 +25,5 @@ The goal of this analysis is to create automated pipeline that extracts, transfo
 - Filling missing values and filtering unwanted columns.
 - Merging data frames using pd_merge method.
 ### ETL_create_database.ipynb
-*The function in its final step connects to the database by sqlalchemy library and to_sql method.
-*Complete ETL process can be executed with a single function extract_transform_load call.
+* The function in its final step connects to the database by sqlalchemy library and to_sql method.
+* Complete ETL process can be executed with a single function extract_transform_load call.
